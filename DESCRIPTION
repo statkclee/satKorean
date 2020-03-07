@@ -1,5 +1,5 @@
 Package: satKorean
-Title: 수능 국어에 출제된 문학작품 모음
+Title: "수능 국어에 출제된 문학작품 모음"
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "광춘",
